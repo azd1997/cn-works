@@ -1,2 +1,5 @@
 */tmp/
 .idea/
+go/web-server/server/server
+go/web-server/client/client
+
